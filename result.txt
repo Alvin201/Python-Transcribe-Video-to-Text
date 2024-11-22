@@ -1,0 +1,11 @@
+=======Transcript===========
+audio-chunks/chunk1.wav:ini tunggu 2 jam Abang ada orang siapa ini biasa normal biasa aja ketemu orang
+audio-chunks/chunk2.wav:browsing
+
+
+=======Sentiment Word===========
+(negative) biasa : 2
+
+=======TOTAL SENTIMENT=========
+Positive Word : 0
+Negative Word : 2
